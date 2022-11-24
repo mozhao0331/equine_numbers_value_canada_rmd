@@ -1,6 +1,8 @@
 ---
 title: "Historical horse population in Canada"
-output: github_document
+output: 
+  html_document:
+    toc: TRUE
 ---
 
 ```{r setup, include=FALSE}
